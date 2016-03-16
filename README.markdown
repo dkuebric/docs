@@ -40,6 +40,14 @@ The only config variables you should need to know about are <code>root</code>, w
 
 There's also a <code>version</code> number in the config.
 
+## Deploy
+
+Use `build.sh` with a config file named `_config.[environment].yml`, as in:
+
+```
+$ ./build.sh [environment]
+```
+
 ## Vagrant Setup
 
 * Clone the repo.
