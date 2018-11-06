@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 gem 'rake', '>=10.4.2'
-gem 'rack'
+gem 'rack', '>= 1.6.11'
 gem 'htmlentities'
 gem 'jekyll', '2.0.3'
 gem 'jekyll-watch', '1.2.1'
