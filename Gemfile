@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'rake', '>=10.4.2'
+gem 'rake', '>= 12.3.3'
 gem 'rack'
 gem 'htmlentities'
 gem 'jekyll', '2.0.3'
